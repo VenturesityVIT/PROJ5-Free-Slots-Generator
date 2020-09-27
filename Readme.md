@@ -4,6 +4,8 @@ Anansha Sharma
 
 Adya Agrawal
 
+Aditya Kumar Goel
+
 Free Slot Generator
 
 1) Everyone can upload the timetable in png or jpeg format ( one provided in vtop website )
